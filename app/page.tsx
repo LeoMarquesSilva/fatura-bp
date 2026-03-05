@@ -441,6 +441,7 @@ export default function FaturaPage() {
                   <option value="Honorários Mensais">Honorários Mensais</option>
                   <option value="Honorários de Êxito">Honorários de Êxito</option>
                   <option value="Honorários Spot">Honorários Spot</option>
+                  <option value="Nota de Débito">Nota de Débito</option>
                   <option value="Honorários Manutenção">
                     Honorários Manutenção
                   </option>
